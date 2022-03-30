@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">137943076741-l993no5mctpmg6fssh10v661tfslatot.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">137943076741</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuTbp4zCQChnaKoN_mjvgAizqXX4k48pg</string>
+    <string name="google_app_id" translatable="false">1:137943076741:android:6565dadf293cd3549b7eec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuTbp4zCQChnaKoN_mjvgAizqXX4k48pg</string>
+    <string name="google_storage_bucket" translatable="false">medrescue-2f1ab.appspot.com</string>
+    <string name="project_id" translatable="false">medrescue-2f1ab</string>
+</resources>

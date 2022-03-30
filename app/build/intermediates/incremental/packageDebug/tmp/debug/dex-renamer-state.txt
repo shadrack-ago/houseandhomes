@@ -1,0 +1,10 @@
+#Thu Mar 10 11:19:53 EAT 2022
+base.2=/Users/allanmogire/Desktop/HOUSEandHOMES/HOUSEandHOMES/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.2=classes2.dex
+base.1=/Users/allanmogire/Desktop/HOUSEandHOMES/HOUSEandHOMES/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+base.0=/Users/allanmogire/Desktop/HOUSEandHOMES/HOUSEandHOMES/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

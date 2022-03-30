@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137943076741",
+    "project_id": "medrescue-2f1ab",
+    "storage_bucket": "medrescue-2f1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137943076741:android:6565dadf293cd3549b7eec",
+        "android_client_info": {
+          "package_name": "sachdeva.saksham.medrescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137943076741-l993no5mctpmg6fssh10v661tfslatot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTbp4zCQChnaKoN_mjvgAizqXX4k48pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137943076741-l993no5mctpmg6fssh10v661tfslatot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
